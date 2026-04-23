@@ -124,8 +124,8 @@ Contributions are welcome! Please feel free to fork the repository, open issues,
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the  Apache License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any inquiries, please contact [Your Name/Email/LinkedIn Profile].
+For any inquiries, please contact [Ayesha Mazhar/mazhar.ayesha12345@gmail.com/www.linkedin.com/in/ayesha-mazhar-614b03294].
